@@ -107,8 +107,3 @@ Charts and results are saved in the `output/charts/` directory:
 - `trade_freq.png` - Trade frequency by sentiment
 - `longshort_heatmap.png` - Long/Short ratio analysis
 
-## Author
-Muskan Gaur (d2025.muskangaur@gmail.com)
-
-## License
-Internal - Internship Project
